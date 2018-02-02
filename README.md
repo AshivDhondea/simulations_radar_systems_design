@@ -1,7 +1,11 @@
 # simulations_radar_systems_design
-A bunch of Python scripts and modules built to emulate the MATLAB files of the book "MATLAB simulations for radar systems design" by Mahafza &amp; Elsherbeni;
+A bunch of Python scripts and modules built to emulate MATLAB files of the book "MATLAB simulations for radar systems design" by Mahafza &amp; Elsherbeni;
 
-The book provides MATLAB code which, unfortunately, many people cannot run. I do not have a MATLAB license for my personal use, so I have decided to port some of the MATLAB code to Python to play around with and hopefulyl learn something.
+The book provides MATLAB code which, unfortunately, many people cannot run. I do not have a MATLAB license for my personal use, so I have decided to port some of the MATLAB code to Python to play around with and hopefully learn something.
+
+If you use the code provided here for projects or research papers, please cite this repo and, of course, cite the source of the original MATLAB code.
+
+Have fun with radar engineering!
 
 ### Prerequisites
 These scripts and modules use the typical Python libraries for computational science and engineering, such as numpy and matplotlib. In addition, to obtain nice plots with LaTeX annotations, you must have LaTeX on your computer.
