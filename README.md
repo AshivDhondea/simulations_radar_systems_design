@@ -18,5 +18,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Acknowledgments
 
-* This repo is built on MATLAB code provided for the book "MATLAB simulations for radar systems design" by Mahafza &amp; Elsherbeni. The MATLAB files can be downloaded at https://www.crcpress.com/MATLAB-Simulations-for-Radar-Systems-Design/Mahafza-Elsherbeni/p/book/9781584883920 under the Downloads/Uploads tab.
+* This repo is built on MATLAB code provided for the book "MATLAB simulations for radar systems design" by Mahafza &amp; Elsherbeni. The MATLAB files can be downloaded at https://www.crcpress.com/MATLAB-Simulations-for-Radar-Systems-Design/Mahafza-Elsherbeni/p/book/9781584883920 under the Resource/Downloads/Uploads tab.
 * The provision of the source MATLAB code for free is gratefully acknowledged.
